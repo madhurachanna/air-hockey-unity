@@ -41,7 +41,7 @@ To run or modify this project, ensure you have the following installed:
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/username/air-hockey-unity.git
+git clone https://github.com/madhurachanna/air-hockey-unity.git
 ```
 
 ### Open in Unity
